@@ -4,10 +4,21 @@
 
 ## Progress
 - [ ] Part 1
-  - [x] Week 1 (Introduction)
-  - [ ] Week 2 (Basics)
-  - [ ] Week 3 (Lists)
-  - [ ] Week 4 (Types)
-  - [ ] Week 5 (Monads)
+  - [x] Introduction
+    - [x] Installation
+    - [x] Functions
+    - [x] Operators
+    - [x] Basic types
+    - [x] Local bindings
+  - [ ] Basics
+    - [x] Parametric polymorphism
+    - [ ] Parametric polymorphism (2)
+    - [ ] Type classes
+    - [ ] Standard type classes
+    - [ ] Lax semantics
+    - [ ] Modules and compilation
+  - [ ] Lists
+  - [ ] Types
+  - [ ] Monads
 - [ ] Part 2
   - [ ] ...
