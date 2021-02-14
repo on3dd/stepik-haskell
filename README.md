@@ -13,7 +13,7 @@
   - [ ] Basics
     - [x] Parametric polymorphism
     - [x] Parametric polymorphism (2)
-    - [ ] Type classes
+    - [x] Type classes
     - [ ] Standard type classes
     - [ ] Lax semantics
     - [ ] Modules and compilation
