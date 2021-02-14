@@ -12,7 +12,7 @@
     - [x] Local bindings
   - [ ] Basics
     - [x] Parametric polymorphism
-    - [ ] Parametric polymorphism (2)
+    - [x] Parametric polymorphism (2)
     - [ ] Type classes
     - [ ] Standard type classes
     - [ ] Lax semantics
