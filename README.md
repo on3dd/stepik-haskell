@@ -15,7 +15,7 @@
     - [x] Parametric polymorphism (2)
     - [x] Type classes
     - [x] Standard type classes
-    - [ ] Lax semantics
+    - [x] Lax semantics
     - [ ] Modules and compilation
   - [ ] Lists
   - [ ] Types
