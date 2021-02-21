@@ -10,13 +10,13 @@
     - [x] Operators
     - [x] Basic types
     - [x] Local bindings
-  - [ ] Basics
+  - [x] Basics
     - [x] Parametric polymorphism
     - [x] Parametric polymorphism (2)
     - [x] Type classes
     - [x] Standard type classes
     - [x] Lax semantics
-    - [ ] Modules and compilation
+    - [x] Modules and compilation
   - [ ] Lists
   - [ ] Types
   - [ ] Monads
