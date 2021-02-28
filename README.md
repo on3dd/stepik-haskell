@@ -18,7 +18,15 @@
     - [x] Lax semantics
     - [x] Modules and compilation
   - [ ] Lists
+    - [x] Functions for working with lists
+    - [ ] Higher order functions on lists
+    - [ ] List generators
+    - [ ] Fold right
+    - [ ] Fold left
+    - [ ] Fold related functions
   - [ ] Types
+    - [ ] ...
   - [ ] Monads
+    - [ ] ...
 - [ ] Part 2
   - [ ] ...
